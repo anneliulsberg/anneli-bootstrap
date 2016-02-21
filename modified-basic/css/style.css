@@ -55,3 +55,23 @@ body {
      background-color: #646056;
 }
  
+.dropdown-menu {
+	background-color: #646056;
+}
+
+.dropdown-menu > li > a {
+	color: #f8f8f7;
+}
+
+.dropdown-menu > li > a:hover {
+	background-color: #646056;
+	color: #d0e7f9;
+}
+
+.dropdown-menu .divider {
+    background-color: #d0e7f9;
+}
+
+.dropdown-header {
+	color: #f8f8f7;
+}
