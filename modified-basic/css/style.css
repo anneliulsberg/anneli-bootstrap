@@ -75,3 +75,7 @@ body {
 .dropdown-header {
 	color: #f8f8f7;
 }
+
+.container-fluid:first-of-type {
+	padding: 0;
+}
