@@ -88,6 +88,10 @@ body {
 	border: none;
 }
 
+.carousel {
+    padding-top: 11px;
+}
+
 .container:nth-of-type(2) {
 	padding-bottom: 40px;
 }
