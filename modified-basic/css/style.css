@@ -79,3 +79,9 @@ body {
 .container-fluid:first-of-type {
 	padding: 0;
 }
+
+.page-header {
+	border: none;
+}
+
+}
