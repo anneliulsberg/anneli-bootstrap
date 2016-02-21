@@ -22,6 +22,10 @@ body {
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
 
+body {
+	color: #646056;
+}
+
 .container .text-muted {
   margin: 20px 0;
   text-align: center;
