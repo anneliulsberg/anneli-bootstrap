@@ -92,7 +92,7 @@ body {
     padding-top: 11px;
 }
 
-.container:nth-of-type(2) {
+#header {
 	padding-bottom: 40px;
 }
 
