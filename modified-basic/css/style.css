@@ -80,7 +80,7 @@ body {
 	color: #f8f8f7;
 }
 
-.container-fluid:first-of-type {
+.container-fluid:nth-of-type(1) {
 	padding: 0;
 }
 
