@@ -26,3 +26,32 @@ body {
   margin: 20px 0;
   text-align: center;
 }
+
+.navbar-default {
+	background-color: #646056;
+	border-color: #d0e7f9;
+}
+
+.navbar-default .navbar-brand {
+	color: #f8f8f7;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+	color: #d0e7f9;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #f8f8f7;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #d0e7f9;
+ }
+ 
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+     color: #d0e7f9;
+     background-color: #646056;
+}
+ 
