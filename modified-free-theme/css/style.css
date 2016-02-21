@@ -38,3 +38,17 @@ header {
     color: #d0e7f9!important;
 }
 
+.bg-primary {
+    background-color: #f8f8f7;
+    color: #646056;
+}
+
+hr.light {
+    border-color: #d0e7f9;
+}
+
+.portfolio-box .portfolio-box-caption {
+    background: rgba(208,231,249,.9);
+    color: #646056;
+}
+
