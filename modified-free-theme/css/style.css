@@ -89,6 +89,10 @@ hr.light {
     border-color: #d0e7f9;
 }
 
+#portfolio {
+	background-color: #f8f8f7;
+}
+
 .portfolio-box .portfolio-box-caption {
     background: rgba(208,231,249,.9);
     color: #646056;
